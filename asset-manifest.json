@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.571d3723.chunk.css",
+    "main.js": "./static/js/main.86f8d4b3.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.cd7b92fa.js",
+    "static/js/2.1b92cf67.chunk.js": "./static/js/2.1b92cf67.chunk.js",
+    "static/js/3.32826f63.chunk.js": "./static/js/3.32826f63.chunk.js",
+    "static/js/4.b2c5dcc8.chunk.js": "./static/js/4.b2c5dcc8.chunk.js",
+    "static/js/5.a5540de9.chunk.js": "./static/js/5.a5540de9.chunk.js",
+    "static/js/6.66515e58.chunk.js": "./static/js/6.66515e58.chunk.js",
+    "index.html": "./index.html",
+    "static/js/2.1b92cf67.chunk.js.LICENSE.txt": "./static/js/2.1b92cf67.chunk.js.LICENSE.txt",
+    "static/js/3.32826f63.chunk.js.LICENSE.txt": "./static/js/3.32826f63.chunk.js.LICENSE.txt",
+    "static/js/5.a5540de9.chunk.js.LICENSE.txt": "./static/js/5.a5540de9.chunk.js.LICENSE.txt",
+    "static/media/index.scoped.css": "./static/media/aurora2.a746173f.jpg",
+    "static/media/click.1950248a.mp3": "./static/media/click.1950248a.mp3",
+    "static/media/losegame.bf84f79d.mp3": "./static/media/losegame.bf84f79d.mp3",
+    "static/media/battleshipgame.css": "./static/media/stars.90c266f7.png",
+    "static/media/wingame.4fd4d356.mp3": "./static/media/wingame.4fd4d356.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd7b92fa.js",
+    "static/js/3.32826f63.chunk.js",
+    "static/css/main.571d3723.chunk.css",
+    "static/js/main.86f8d4b3.chunk.js"
+  ]
+}
